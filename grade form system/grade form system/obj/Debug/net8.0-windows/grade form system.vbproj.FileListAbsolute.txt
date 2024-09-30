@@ -1,0 +1,16 @@
+C:\personal folder\VIDEO OF TOT\projects\VB\VB course work 2024 week 2\grading system\grading system work\grade form system\grade form system\bin\Debug\net8.0-windows\grade form system.exe
+C:\personal folder\VIDEO OF TOT\projects\VB\VB course work 2024 week 2\grading system\grading system work\grade form system\grade form system\bin\Debug\net8.0-windows\grade form system.deps.json
+C:\personal folder\VIDEO OF TOT\projects\VB\VB course work 2024 week 2\grading system\grading system work\grade form system\grade form system\bin\Debug\net8.0-windows\grade form system.runtimeconfig.json
+C:\personal folder\VIDEO OF TOT\projects\VB\VB course work 2024 week 2\grading system\grading system work\grade form system\grade form system\bin\Debug\net8.0-windows\grade form system.dll
+C:\personal folder\VIDEO OF TOT\projects\VB\VB course work 2024 week 2\grading system\grading system work\grade form system\grade form system\bin\Debug\net8.0-windows\grade form system.pdb
+C:\personal folder\VIDEO OF TOT\projects\VB\VB course work 2024 week 2\grading system\grading system work\grade form system\grade form system\obj\Debug\net8.0-windows\grade_form_system.Form1.resources
+C:\personal folder\VIDEO OF TOT\projects\VB\VB course work 2024 week 2\grading system\grading system work\grade form system\grade form system\obj\Debug\net8.0-windows\grade form system.vbproj.GenerateResource.cache
+C:\personal folder\VIDEO OF TOT\projects\VB\VB course work 2024 week 2\grading system\grading system work\grade form system\grade form system\obj\Debug\net8.0-windows\grade form system.GeneratedMSBuildEditorConfig.editorconfig
+C:\personal folder\VIDEO OF TOT\projects\VB\VB course work 2024 week 2\grading system\grading system work\grade form system\grade form system\obj\Debug\net8.0-windows\grade form system.AssemblyInfoInputs.cache
+C:\personal folder\VIDEO OF TOT\projects\VB\VB course work 2024 week 2\grading system\grading system work\grade form system\grade form system\obj\Debug\net8.0-windows\grade form system.AssemblyInfo.vb
+C:\personal folder\VIDEO OF TOT\projects\VB\VB course work 2024 week 2\grading system\grading system work\grade form system\grade form system\obj\Debug\net8.0-windows\grade form system.vbproj.CoreCompileInputs.cache
+C:\personal folder\VIDEO OF TOT\projects\VB\VB course work 2024 week 2\grading system\grading system work\grade form system\grade form system\obj\Debug\net8.0-windows\grade form system.dll
+C:\personal folder\VIDEO OF TOT\projects\VB\VB course work 2024 week 2\grading system\grading system work\grade form system\grade form system\obj\Debug\net8.0-windows\refint\grade form system.dll
+C:\personal folder\VIDEO OF TOT\projects\VB\VB course work 2024 week 2\grading system\grading system work\grade form system\grade form system\obj\Debug\net8.0-windows\grade form system.pdb
+C:\personal folder\VIDEO OF TOT\projects\VB\VB course work 2024 week 2\grading system\grading system work\grade form system\grade form system\obj\Debug\net8.0-windows\grade form system.genruntimeconfig.cache
+C:\personal folder\VIDEO OF TOT\projects\VB\VB course work 2024 week 2\grading system\grading system work\grade form system\grade form system\obj\Debug\net8.0-windows\ref\grade form system.dll
